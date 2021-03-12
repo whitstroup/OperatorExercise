@@ -6,7 +6,7 @@ namespace OperatorExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello jiowfiwe");
+            Console.WriteLine("Hello wafwafawefawefawe");
         }
     }
 }
